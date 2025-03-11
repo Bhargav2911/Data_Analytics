@@ -1,0 +1,3 @@
+My name is Bhargav Patel
+I like to learn python
+I am good in SQL
